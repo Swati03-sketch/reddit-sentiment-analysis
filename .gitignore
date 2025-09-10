@@ -1,0 +1,36 @@
+# Environment / config files
+.env
+.environment.yaml
+.env.local
+.env.*.local
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# SQLite and other databases
+data/db/*.sqlite
+data/db/*.db
+data/db/*.sqlite3
+
+# Streamlit cache
+.streamlit/
+.streamlit/secrets.toml
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak

@@ -1,0 +1,18 @@
+praw
+numpy==1.26.4
+pandas
+nltk
+spacy
+transformers
+torch  #torch==2.8.0+cpu
+matplotlib
+seaborn
+wordcloud
+streamlit
+plotly
+python-dotenv
+h5py
+pyarrow
+numexpr
+bottleneck
+scikit-learn
